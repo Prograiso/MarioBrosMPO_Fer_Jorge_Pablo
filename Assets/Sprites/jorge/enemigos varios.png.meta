@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 77a87d694083c184899ca0c8546896ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2073952421103475532
+    second: enemigos varios_0
+  - first:
+      213: -4441677925888787892
+    second: enemigos varios_1
+  - first:
+      213: -3715225871769913121
+    second: enemigos varios_2
+  - first:
+      213: 1836202510280687736
+    second: enemigos varios_3
+  - first:
+      213: -2627177799706326337
+    second: enemigos varios_4
+  - first:
+      213: -8684522994244979265
+    second: enemigos varios_5
+  - first:
+      213: 6048805681623805131
+    second: enemigos varios_6
+  - first:
+      213: -3766989921329218734
+    second: enemigos varios_7
+  - first:
+      213: 8007474345920016664
+    second: enemigos varios_8
+  - first:
+      213: -2940967906801357858
+    second: enemigos varios_9
+  - first:
+      213: 2816240145630878287
+    second: enemigos varios_10
+  - first:
+      213: 3760393851136103101
+    second: enemigos varios_11
+  - first:
+      213: 5424109977402041676
+    second: enemigos varios_12
+  - first:
+      213: -2625521322636225428
+    second: enemigos varios_13
+  - first:
+      213: 6556205592643124812
+    second: enemigos varios_14
+  - first:
+      213: -3904565646146170320
+    second: enemigos varios_15
+  - first:
+      213: 3105023288775591533
+    second: enemigos varios_16
+  - first:
+      213: -9123992654853807248
+    second: enemigos varios_17
+  - first:
+      213: 9038644869874480087
+    second: enemigos varios_18
+  - first:
+      213: -6612548911496253684
+    second: enemigos varios_19
+  - first:
+      213: 1650055322451033191
+    second: enemigos varios_20
+  - first:
+      213: -4066023547316870987
+    second: enemigos varios_21
+  - first:
+      213: 7633651969614157220
+    second: enemigos varios_22
+  - first:
+      213: -69456709037978242
+    second: enemigos varios_23
+  - first:
+      213: 2628106814662255099
+    second: enemigos varios_24
+  - first:
+      213: -3892255653468768473
+    second: enemigos varios_25
+  - first:
+      213: -7218506760913594014
+    second: enemigos varios_26
+  - first:
+      213: 4752262465967451725
+    second: enemigos varios_27
+  - first:
+      213: 560246088528859802
+    second: enemigos varios_28
+  - first:
+      213: 2529535835660097104
+    second: enemigos varios_29
+  - first:
+      213: 1817434807537019137
+    second: enemigos varios_30
+  - first:
+      213: -8443395996387418590
+    second: enemigos varios_31
+  - first:
+      213: -3503865370497451878
+    second: enemigos varios_32
+  - first:
+      213: -5149194623243560928
+    second: enemigos varios_33
+  - first:
+      213: 4879498581130455637
+    second: enemigos varios_34
+  - first:
+      213: 8692700154471466017
+    second: enemigos varios_35
+  - first:
+      213: -2071755497862185012
+    second: enemigos varios_36
+  - first:
+      213: -4478824491862684026
+    second: enemigos varios_37
+  - first:
+      213: 5481305368411397825
+    second: enemigos varios_38
+  - first:
+      213: -9125578211219807722
+    second: enemigos varios_39
+  - first:
+      213: 6501669163559231569
+    second: enemigos varios_40
+  - first:
+      213: -8672878971190422796
+    second: enemigos varios_41
+  - first:
+      213: -1646117751254422645
+    second: enemigos varios_42
+  - first:
+      213: -7681644093521841606
+    second: enemigos varios_43
+  - first:
+      213: -211123603257866110
+    second: enemigos varios_44
+  - first:
+      213: -3587406675405594235
+    second: enemigos varios_45
+  - first:
+      213: -3654035666838929305
+    second: enemigos varios_46
+  - first:
+      213: 1233632280808158193
+    second: enemigos varios_47
+  - first:
+      213: 2367733501022423612
+    second: enemigos varios_48
+  - first:
+      213: -3160866990312592554
+    second: enemigos varios_49
+  - first:
+      213: -5047968690365320953
+    second: enemigos varios_50
+  - first:
+      213: -7067256002873136156
+    second: enemigos varios_51
+  - first:
+      213: 3617291125714615800
+    second: enemigos varios_52
+  - first:
+      213: 3753993796750955196
+    second: enemigos varios_53
+  - first:
+      213: -4120148017079218648
+    second: enemigos varios_54
+  - first:
+      213: -6093087746322039251
+    second: enemigos varios_55
+  - first:
+      213: 6505840133393038530
+    second: enemigos varios_56
+  - first:
+      213: 130344747443680546
+    second: enemigos varios_57
+  - first:
+      213: 4489740801163106947
+    second: enemigos varios_58
+  - first:
+      213: 471201674454434699
+    second: enemigos varios_59
+  - first:
+      213: 1943922115696090261
+    second: enemigos varios_60
+  - first:
+      213: -8243565094150027371
+    second: enemigos varios_61
+  - first:
+      213: 4417412743523800570
+    second: enemigos varios_62
+  - first:
+      213: -7662182368442505562
+    second: enemigos varios_63
+  - first:
+      213: -6829564365941107967
+    second: enemigos varios_64
+  - first:
+      213: -4441721505996978463
+    second: enemigos varios_65
+  - first:
+      213: 7454245453311075084
+    second: enemigos varios_66
+  - first:
+      213: 5939418735685437685
+    second: enemigos varios_67
+  - first:
+      213: 1452691360982779779
+    second: enemigos varios_68
+  - first:
+      213: 5957378980489390363
+    second: enemigos varios_69
+  - first:
+      213: -723023623755487443
+    second: enemigos varios_70
+  - first:
+      213: 4313081610567302132
+    second: enemigos varios_71
+  - first:
+      213: -8261900405399847549
+    second: enemigos varios_72
+  - first:
+      213: -2011934051582774888
+    second: enemigos varios_73
+  - first:
+      213: 1597179252477131147
+    second: enemigos varios_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemigos varios_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4e013e247d733e0800000000000000
+      internalID: -2073952421103475532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a74bc957dfb52c0800000000000000
+      internalID: -4441677925888787892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd830d4f0cdd07cc0800000000000000
+      internalID: -3715225871769913121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87006f854708b7910800000000000000
+      internalID: 1836202510280687736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba46b6e5b36a8bd0800000000000000
+      internalID: -2627177799706326337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 155
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5f05c69506a7780800000000000000
+      internalID: -8684522994244979265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 155
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2d8038bca1f350800000000000000
+      internalID: 6048805681623805131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 155
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf1baff96f8bbc0800000000000000
+      internalID: -3766989921329218734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 155
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811bd900e73402f60800000000000000
+      internalID: 8007474345920016664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe74b45459f27d0800000000000000
+      internalID: -2940967906801357858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ad58acd7b451720800000000000000
+      internalID: 2816240145630878287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 129
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d780c84a9f2430800000000000000
+      internalID: 3760393851136103101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4563b9494f464b40800000000000000
+      internalID: 5424109977402041676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64dd068446409bd0800000000000000
+      internalID: -2625521322636225428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e3cef00425cfa50800000000000000
+      internalID: 6556205592643124812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 155
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032934b6b3230d9c0800000000000000
+      internalID: -3904565646146170320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 155
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66c8c2ea32471b20800000000000000
+      internalID: 3105023288775591533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 155
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0736a2a7501116180800000000000000
+      internalID: -9123992654853807248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 155
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d376cfce97bf6d70800000000000000
+      internalID: 9038644869874480087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 155
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fae5ebcc18b34a0800000000000000
+      internalID: -6612548911496253684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cbf6ac29c26e610800000000000000
+      internalID: 1650055322451033191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0edcd50259297c0800000000000000
+      internalID: -4066023547316870987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 129
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a510d3850e20f960800000000000000
+      internalID: 7633651969614157220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 129
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d068abd7d390ff0800000000000000
+      internalID: -69456709037978242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 129
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12abf3939e87420800000000000000
+      internalID: 2628106814662255099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 129
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727fcffea1eebf9c0800000000000000
+      internalID: -3892255653468768473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695df2a856b2db90800000000000000
+      internalID: -7218506760913594014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e6963c88d63f140800000000000000
+      internalID: 4752262465967451725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92909569d466c700800000000000000
+      internalID: 560246088528859802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0561423c077ba1320800000000000000
+      internalID: 2529535835660097104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109aca90453d83910800000000000000
+      internalID: 1817434807537019137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e5f59831803da80800000000000000
+      internalID: -8443395996387418590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 103
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98f4b28205cf5fc0800000000000000
+      internalID: -3503865370497451878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028573295c26a88b0800000000000000
+      internalID: -5149194623243560928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aad4a5b1677b340800000000000000
+      internalID: 4879498581130455637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124414e0cbca2a870800000000000000
+      internalID: 8692700154471466017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf3670f955af33e0800000000000000
+      internalID: -2071755497862185012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e843fbad408d1c0800000000000000
+      internalID: -4478824491862684026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 103
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce5a9df032811c40800000000000000
+      internalID: 5481305368411397825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612e23e57fe6b5180800000000000000
+      internalID: -9125578211219807722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1502f0d28a19a3a50800000000000000
+      internalID: 6501669163559231569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f25d3ec68eb3a780800000000000000
+      internalID: -8672878971190422796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be30270a0d729e0800000000000000
+      internalID: -1646117751254422645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3237a26561556590800000000000000
+      internalID: -7681644093521841606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2884d109330f11df0800000000000000
+      internalID: -211123603257866110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 77
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581a597b2a8f63ec0800000000000000
+      internalID: -3587406675405594235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7604571cbe14a4dc0800000000000000
+      internalID: -3654035666838929305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f37609f50ebe1110800000000000000
+      internalID: 1233632280808158193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3acb3b0311ebd020800000000000000
+      internalID: 2367733501022423612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65be82428385224d0800000000000000
+      internalID: -3160866990312592554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_50
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 77
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013b7da83302f9b0800000000000000
+      internalID: -5047968690365320953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_51
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 77
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebeffbfb101ced90800000000000000
+      internalID: -7067256002873136156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 77
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd74651d13333230800000000000000
+      internalID: 3617291125714615800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 41
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb25c58f77dd81430800000000000000
+      internalID: 3753993796750955196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 77
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e86fb353b42d6c0800000000000000
+      internalID: -4120148017079218648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_55
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e703f2af0017ba0800000000000000
+      internalID: -6093087746322039251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 77
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc3f54c123694a50800000000000000
+      internalID: 6505840133393038530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225f7b17bd31fc100800000000000000
+      internalID: 130344747443680546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 77
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a97e29873ce4e30800000000000000
+      internalID: 4489740801163106947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_59
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 77
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830d672d6b0a8600800000000000000
+      internalID: 471201674454434699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 77
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c57196dd23afa10800000000000000
+      internalID: 1943922115696090261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 77
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c0602939f89d80800000000000000
+      internalID: -8243565094150027371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 41
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5150c5c7dcd4d30800000000000000
+      internalID: 4417412743523800570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 41
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a629bc5bb57aa590800000000000000
+      internalID: -7662182368442505562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_64
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 41
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1031a6dc4638831a0800000000000000
+      internalID: -6829564365941107967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e646d3d2d5db52c0800000000000000
+      internalID: -4441721505996978463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_66
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c036d29debcc27760800000000000000
+      internalID: 7454245453311075084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f884d82fdd0d6250800000000000000
+      internalID: 5939418735685437685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38748ab981ff82410800000000000000
+      internalID: 1452691360982779779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19e2748e9cdca250800000000000000
+      internalID: 5957378980489390363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_70
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27a6dd48dd47f5f0800000000000000
+      internalID: -723023623755487443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_71
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb32258fd42bdb30800000000000000
+      internalID: 4313081610567302132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d7c7eca55d75d80800000000000000
+      internalID: -8261900405399847549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89175e7c3ac2414e0800000000000000
+      internalID: -2011934051582774888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos varios_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89f58261125a2610800000000000000
+      internalID: 1597179252477131147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemigos varios_0: -2073952421103475532
+      enemigos varios_1: -4441677925888787892
+      enemigos varios_10: 2816240145630878287
+      enemigos varios_11: 3760393851136103101
+      enemigos varios_12: 5424109977402041676
+      enemigos varios_13: -2625521322636225428
+      enemigos varios_14: 6556205592643124812
+      enemigos varios_15: -3904565646146170320
+      enemigos varios_16: 3105023288775591533
+      enemigos varios_17: -9123992654853807248
+      enemigos varios_18: 9038644869874480087
+      enemigos varios_19: -6612548911496253684
+      enemigos varios_2: -3715225871769913121
+      enemigos varios_20: 1650055322451033191
+      enemigos varios_21: -4066023547316870987
+      enemigos varios_22: 7633651969614157220
+      enemigos varios_23: -69456709037978242
+      enemigos varios_24: 2628106814662255099
+      enemigos varios_25: -3892255653468768473
+      enemigos varios_26: -7218506760913594014
+      enemigos varios_27: 4752262465967451725
+      enemigos varios_28: 560246088528859802
+      enemigos varios_29: 2529535835660097104
+      enemigos varios_3: 1836202510280687736
+      enemigos varios_30: 1817434807537019137
+      enemigos varios_31: -8443395996387418590
+      enemigos varios_32: -3503865370497451878
+      enemigos varios_33: -5149194623243560928
+      enemigos varios_34: 4879498581130455637
+      enemigos varios_35: 8692700154471466017
+      enemigos varios_36: -2071755497862185012
+      enemigos varios_37: -4478824491862684026
+      enemigos varios_38: 5481305368411397825
+      enemigos varios_39: -9125578211219807722
+      enemigos varios_4: -2627177799706326337
+      enemigos varios_40: 6501669163559231569
+      enemigos varios_41: -8672878971190422796
+      enemigos varios_42: -1646117751254422645
+      enemigos varios_43: -7681644093521841606
+      enemigos varios_44: -211123603257866110
+      enemigos varios_45: -3587406675405594235
+      enemigos varios_46: -3654035666838929305
+      enemigos varios_47: 1233632280808158193
+      enemigos varios_48: 2367733501022423612
+      enemigos varios_49: -3160866990312592554
+      enemigos varios_5: -8684522994244979265
+      enemigos varios_50: -5047968690365320953
+      enemigos varios_51: -7067256002873136156
+      enemigos varios_52: 3617291125714615800
+      enemigos varios_53: 3753993796750955196
+      enemigos varios_54: -4120148017079218648
+      enemigos varios_55: -6093087746322039251
+      enemigos varios_56: 6505840133393038530
+      enemigos varios_57: 130344747443680546
+      enemigos varios_58: 4489740801163106947
+      enemigos varios_59: 471201674454434699
+      enemigos varios_6: 6048805681623805131
+      enemigos varios_60: 1943922115696090261
+      enemigos varios_61: -8243565094150027371
+      enemigos varios_62: 4417412743523800570
+      enemigos varios_63: -7662182368442505562
+      enemigos varios_64: -6829564365941107967
+      enemigos varios_65: -4441721505996978463
+      enemigos varios_66: 7454245453311075084
+      enemigos varios_67: 5939418735685437685
+      enemigos varios_68: 1452691360982779779
+      enemigos varios_69: 5957378980489390363
+      enemigos varios_7: -3766989921329218734
+      enemigos varios_70: -723023623755487443
+      enemigos varios_71: 4313081610567302132
+      enemigos varios_72: -8261900405399847549
+      enemigos varios_73: -2011934051582774888
+      enemigos varios_74: 1597179252477131147
+      enemigos varios_8: 8007474345920016664
+      enemigos varios_9: -2940967906801357858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
