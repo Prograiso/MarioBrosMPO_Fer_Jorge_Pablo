@@ -74,7 +74,6 @@ GameObject:
   - component: {fileID: 1351706329337154461}
   - component: {fileID: 2326674236226427707}
   - component: {fileID: 9068141363957283715}
-  - component: {fileID: 8324471870490896327}
   - component: {fileID: 1594850519763337853}
   m_Layer: 6
   m_Name: bowser
@@ -185,25 +184,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &8324471870490896327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9116602800613382578}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56e5a196cb4c4924e9c8f896eec82725, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::bowserComportamiento
-  puntoInicio: {fileID: 0}
-  puntoFinal: {fileID: 0}
-  velocidad: 2
-  distanciaBatalla: 10
-  fuerzaSalto: 8
-  minTiempoSalto: 1
-  maxTiempoSalto: 5
 --- !u!212 &1594850519763337853
 SpriteRenderer:
   serializedVersion: 2

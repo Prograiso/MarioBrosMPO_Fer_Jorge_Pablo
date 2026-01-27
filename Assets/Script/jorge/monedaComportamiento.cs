@@ -13,7 +13,7 @@ public class monedaComportamiento : MonoBehaviour
 
     void Start()
     {
-        // Me permite que aparezcan  6 ceros en el txt el (ToString("D6")) 
+        // Me permite que aparezcan los 6 ceros en el txt
         textomonedas.text = contadorMonedasScore.ToString("D6");
         textomonedasPuntosUnoCien.text = contadorPanelMonedas.ToString("D2");
     }
