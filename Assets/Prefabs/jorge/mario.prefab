@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5288165091307828287}
   - component: {fileID: 8602662586947336682}
   - component: {fileID: 3965586892832924134}
-  - component: {fileID: 2991165494273338958}
+  - component: {fileID: -3941074051459964595}
   m_Layer: 0
   m_Name: mario
   m_TagString: Player
@@ -181,7 +181,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &2991165494273338958
+--- !u!114 &-3941074051459964595
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -190,7 +190,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 6801422576472664115}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 669f160beb530604880961c445d80620, type: 3}
+  m_Script: {fileID: 11500000, guid: 9b2cc9a99aed5c5488fff42cbf2f3f52, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::marioComportamiento
-  velocidad: 3
+  m_EditorClassIdentifier: '::'

@@ -2,9 +2,13 @@ using System;
 using Unity.VectorGraphics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Video;
 
-public class marioComportamiento : MonoBehaviour
+public class  comportamientoMario : MonoBehaviour
 {
+    private CapsuleCollider2D capsuleCollider2D;
+    private Rigidbody2D rb;
+    public int vidas = 1;
     private marioComportamiento script;
    public float velocidad = 5f;
    private SpriteRenderer spriteRenderer;
@@ -16,6 +20,8 @@ public class marioComportamiento : MonoBehaviour
         script = gameObject.GetComponent<marioComportamiento>();
         spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
         animator = gameObject.GetComponent<Animator>();
+        rb = gameObject.GetComponent<Rigidbody2D>();
+        capsuleCollider2D=gameObject.GetComponent<CapsuleCollider2D>();
     }
 
     // Update is called once per frame
@@ -61,6 +67,24 @@ public class marioComportamiento : MonoBehaviour
             animator.SetBool("idle",true);
             script.enabled = false;
             StartCoroutine(EsperarCambiarEscena());
+        }
+        if(collision.collider.tag == "lava")
+        {
+            Debug.Log("ENTRA");
+            vidas=0;
+            animator.SetBool("morir",true);
+            script.enabled = false;
+            velocidad = 0;
+            rb.AddForce(Vector3.up * 5.0f , ForceMode2D.Impulse);
+            capsuleCollider2D.isTrigger = true;
+            Destroy(gameObject, 2f);
+        }
+
+        if(collision.collider.tag == "gomba")
+        {
+            animator.SetBool("saltar",true);
+            rb.AddForce(Vector2.up*4f,ForceMode2D.Impulse);
+
         }
     }
     
