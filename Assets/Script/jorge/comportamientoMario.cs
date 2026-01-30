@@ -6,6 +6,8 @@ using UnityEngine.Video;
 
 public class  comportamientoMario : MonoBehaviour
 {
+    private AudioSource audioSource;
+    [SerializeField] private AudioClip[] audios;
     private CapsuleCollider2D capsuleCollider2D;
     private Rigidbody2D rb;
     public int vidas = 1;
@@ -17,6 +19,7 @@ public class  comportamientoMario : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         script = gameObject.GetComponent<marioComportamiento>();
         spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
         animator = gameObject.GetComponent<Animator>();
@@ -58,6 +61,16 @@ public class  comportamientoMario : MonoBehaviour
         
     }
 
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+    if (collision.CompareTag("moneda"))
+    {
+        collision.GetComponent<Collider2D>().enabled = false;
+        audioSource.PlayOneShot(audios[0]);
+        Destroy(collision.gameObject);
+    }
+    }
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.collider.tag == "peach")
@@ -87,6 +100,8 @@ public class  comportamientoMario : MonoBehaviour
 
         }
     }
+
+    
     
     // De esta forma no se cambia de escena de golpe y espera unos segundos
     System.Collections.IEnumerator EsperarCambiarEscena()

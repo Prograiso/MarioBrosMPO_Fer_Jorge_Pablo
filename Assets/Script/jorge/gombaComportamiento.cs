@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class enemigoComportamiento : MonoBehaviour
 {
+    [SerializeField] private AudioClip[]audios;
+    private AudioSource audioSource;
     private Animator animator;
     public float velocidad = 1f;
     private int vida = 1;
@@ -10,6 +12,7 @@ public class enemigoComportamiento : MonoBehaviour
     void Start()
     {
         animator = gameObject.GetComponent<Animator>();
+        audioSource = gameObject.GetComponent<AudioSource>();
         
     }
 
@@ -42,6 +45,8 @@ public class enemigoComportamiento : MonoBehaviour
             // Cuando el Player colisione en y el gomba morirá (mecánica de eliminar al pisarlo)
             if(collision.transform.position.y > transform.position.y+0.4f)
             {
+                audioSource.clip = audios[0];
+                audioSource.PlayOneShot(audios[0]);
                 vida = 0;
                 // Al pisarlo se queda quieto y se aplica la animación
                 velocidad=0;
