@@ -6,6 +6,7 @@ using UnityEngine.Video;
 
 public class  comportamientoMario : MonoBehaviour
 {
+    bool estaSuelo; 
     private AudioSource audioSource;
     [SerializeField] private AudioClip[] audios;
     private CapsuleCollider2D capsuleCollider2D;
@@ -32,9 +33,13 @@ public class  comportamientoMario : MonoBehaviour
     {
         if(Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
         {
-            gameObject.transform.position+=new Vector3(0,5,0)*velocidad*Time.deltaTime;
+            if (estaSuelo)
+            {
+            gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0,50));
             animator.SetBool("saltar",true);
+            }  
         }
+            
         else
         {
             animator.SetBool("saltar",false);
@@ -73,6 +78,10 @@ public class  comportamientoMario : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
+       if(collision.collider.tag == "suelo")
+        {
+            estaSuelo = true;
+        }
         if(collision.collider.tag == "peach")
         {
             animator.SetBool("correr",false);
@@ -101,8 +110,16 @@ public class  comportamientoMario : MonoBehaviour
         }
     }
 
-    
-    
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        if(collision.collider.tag == "suelo")
+        {
+            estaSuelo = false;
+        }
+    }
+
+
+
     // De esta forma no se cambia de escena de golpe y espera unos segundos
     System.Collections.IEnumerator EsperarCambiarEscena()
     {

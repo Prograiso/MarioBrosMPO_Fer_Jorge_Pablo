@@ -26,11 +26,12 @@ public class monedaComportamiento : MonoBehaviour
             textomonedas.text = contadorMonedasScore.ToString("D6");
             Destroy(gameObject);
         }
-         if (collision.CompareTag("Player"))
+         if (collision.CompareTag("Player") )
         {
             contadorPanelMonedas += 1;
             textomonedasPuntosUnoCien.text = contadorPanelMonedas.ToString("D2");
             Destroy(gameObject);
         }
     }
+    
 }
