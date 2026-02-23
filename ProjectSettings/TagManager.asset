@@ -20,6 +20,10 @@ TagManager:
   - flor
   - blockCoin
   - HeadMario
+  - peach
+  - finalTuberia
+  - sueloTuberia
+  - finalTuberia2
   layers:
   - Default
   - TransparentFX
