@@ -152,10 +152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d1a28feb083cb34cb80a94ac12e380f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::plataformaComportamiento
-  puntoInicio: {fileID: 0}
-  puntoFinal: {fileID: 0}
-  velocidad: 0
-  invertidoMov: 0
 --- !u!251 &-1085074674890105210
 PlatformEffector2D:
   m_ObjectHideFlags: 0

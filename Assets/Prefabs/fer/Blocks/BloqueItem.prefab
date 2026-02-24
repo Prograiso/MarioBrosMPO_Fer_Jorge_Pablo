@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 4059875042056945494}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.052, y: -1.59, z: -1}
+  m_LocalPosition: {x: -1.052, y: -1.59, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -154,7 +154,7 @@ MonoBehaviour:
   isBreakable: 0
   brickPiecePrefab: {fileID: 0}
   numCoins: 0
-  coinBlockPrefab: {fileID: 0}
+  coinBlockPrefab: {fileID: 6423762593173265488, guid: 84df1a65570bbe0469ddeb4bc5601594, type: 3}
   emptyBlock: {fileID: -4877739707033810275, guid: f0c815e768207e446829501399cc0e6f, type: 3}
   itemPrefabs:
   - {fileID: 7456394426975379764, guid: 5b94810c09435db4c906ac362a68e7ba, type: 3}

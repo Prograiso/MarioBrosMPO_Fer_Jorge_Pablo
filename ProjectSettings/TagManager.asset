@@ -18,12 +18,12 @@ TagManager:
   - muroInvisible
   - champi
   - flor
+  - blockCoin
   - HeadMario
-  - water
-  - BlockCoin
-  - Undefined
-  - Mushroom
-  - Flower
+  - peach
+  - finalTuberia
+  - sueloTuberia
+  - finalTuberia2
   layers:
   - Default
   - TransparentFX
